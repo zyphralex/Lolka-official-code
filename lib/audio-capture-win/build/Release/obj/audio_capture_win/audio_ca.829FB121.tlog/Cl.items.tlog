@@ -1,0 +1,5 @@
+C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\src\module.cpp;C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\build\Release\obj\audio_capture_win\src\module.obj
+C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\src\audio_capture.cpp;C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\build\Release\obj\audio_capture_win\src\audio_capture.obj
+C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\src\session_manager.cpp;C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\build\Release\obj\audio_capture_win\src\session_manager.obj
+C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\src\process_utils.cpp;C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\build\Release\obj\audio_capture_win\src\process_utils.obj
+C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\node_modules\.pnpm\node-gyp@10.3.1\node_modules\node-gyp\src\win_delay_load_hook.cc;C:\Users\Daniil\Desktop\electron-private\lib\audio-capture-win\build\Release\obj\audio_capture_win\win_delay_load_hook.obj

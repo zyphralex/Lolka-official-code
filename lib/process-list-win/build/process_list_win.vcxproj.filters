@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users">
+      <UniqueIdentifier>{E9F714C1-DA89-54E2-60CF-39FEB20BF756}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere">
+      <UniqueIdentifier>{527D9AE8-6650-94D3-7356-021E3902BA89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace">
+      <UniqueIdentifier>{D2B2A1B8-C778-705C-0FFC-9926B2832DF2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka">
+      <UniqueIdentifier>{E89AF58B-9E50-9C7D-7327-6FA505B33361}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka\electron-private">
+      <UniqueIdentifier>{F671CE0B-46A0-2297-8857-97BA31D44332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka\electron-private\lib">
+      <UniqueIdentifier>{2739B19F-16DF-601C-060A-FF86F6A40045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka\electron-private\lib\process-list-win">
+      <UniqueIdentifier>{1FEB38B0-42AC-07CD-125A-2BF436D72AC9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka\electron-private\lib\process-list-win\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka\electron-private\lib\process-list-win\node_modules\node-gyp">
+      <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\divere\Workspace\lolka\electron-private\lib\process-list-win\node_modules\node-gyp\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\module.cpp">
+      <Filter>..\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\process_list.cpp">
+      <Filter>..\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\divere\Workspace\lolka\electron-private\lib\process-list-win\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>C:\Users\divere\Workspace\lolka\electron-private\lib\process-list-win\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+  </ItemGroup>
+</Project>

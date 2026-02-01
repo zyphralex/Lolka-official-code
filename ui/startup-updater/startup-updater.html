@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="startup-updater.css" />
+  </head>
+  <body>
+    <div class="container">
+      <img src="logo_and_title.png" alt="Lolka" class="logo" width="207" height="63" />
+      <div class="version" id="version">Неизвестная версия</div>
+      <div class="status" id="status">
+        Запуск приложения...
+        <span class="spinner"></span>
+      </div>
+      <div class="progress-container" id="progress-container">
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+        <div class="progress-text" id="progress-text">0%</div>
+      </div>
+    </div>
+
+    <script src="startup-updater.js"></script>
+  </body>
+</html>

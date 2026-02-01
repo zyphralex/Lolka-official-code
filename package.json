@@ -1,0 +1,11 @@
+{
+  "name": "Lolka",
+  "version": "1.0.70",
+  "description": "Electron wrapper for lolka.app",
+  "main": "main.js",
+  "dependencies": {
+    "electron-updater": "^6.6.2"
+  },
+  "author": "Lolka Team",
+  "license": "MIT"
+}

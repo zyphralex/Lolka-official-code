@@ -1,0 +1,16 @@
+{
+  "name": "gpu-priority-win",
+  "version": "1.0.0",
+  "description": "Set GPU priority for Windows processes (like OBS/Discord)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp rebuild",
+    "build:debug": "node-gyp rebuild --debug"
+  },
+  "dependencies": {
+    "node-addon-api": "^7.0.0"
+  },
+  "devDependencies": {
+    "node-gyp": "^10.0.0"
+  }
+}

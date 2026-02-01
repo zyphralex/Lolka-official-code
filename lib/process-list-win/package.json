@@ -1,0 +1,17 @@
+{
+  "name": "process-list-win",
+  "version": "1.0.0",
+  "description": "Native Windows process list with executable paths",
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "build": "node-gyp rebuild",
+    "clean": "node-gyp clean"
+  },
+  "dependencies": {
+    "node-addon-api": "^7.0.0",
+    "node-gyp": "^10.0.0"
+  },
+  "gypfile": true
+}
+
